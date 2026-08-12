@@ -1,0 +1,1 @@
+# boardgame-config-repo
